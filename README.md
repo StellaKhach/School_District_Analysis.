@@ -20,3 +20,6 @@ Results
 
 In the district summary we see that there are 15 schools in total and 39,170 Students. The total budget is $24,649,428. The overall passing rate is 64.9%. The School summary shows a higher performance at Griffin and Cabrerra High Schools. The replacement in the ninth graders math and reading scores shows that Thomas High now has 1174 students passing both reading and math. This makes their ranking go up, since the 9th grade lower grades are no longer accounted for. 
 
+Summary 
+
+
